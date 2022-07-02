@@ -5,7 +5,7 @@ A Web blog application that allow users to create an account to post, follow oth
 ### Languages, technologies, and tools used:
 
 * Languages: Javascript
-* Technologies used: MongoDB, Express.js, Node.js, and React.js
+* Technologies: MongoDB, Express.js, Node.js, and React.js
 * Tools: Visual Studio Code
 
 ### What you need to run code:
