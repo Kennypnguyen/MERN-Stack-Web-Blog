@@ -1,6 +1,6 @@
 # MERN Stack Web Blog
 
-A Web blog application that allow users to create an account to post, follow other users, and interact with other user's posts.
+A Web blog application that allow users to create an account to post, follow other users, and interact with other user's posts. Incorporates the MERN Stack by having the MongoDB, Express, and Node build up the backend of the web blog and React build up the frontend of the web blog.
 
 ### Languages, technologies, and tools used:
 
